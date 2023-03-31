@@ -10,3 +10,5 @@ blackwidow
 nathasha
 hawkaiy
 star
+BlackPanther
+
