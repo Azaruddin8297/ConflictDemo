@@ -10,4 +10,3 @@ blackwidow
 nathasha
 hawkaiy
 BlackPanther
-Bucky
